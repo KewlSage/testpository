@@ -17,4 +17,4 @@ Leaving the second option as /root is what I will choose to do and that, once sa
 
 ![image](https://user-images.githubusercontent.com/46802123/110391306-ebec9980-802c-11eb-8c6c-58f09268be01.png)
 
-using that kind of link you will be able to import css successfully, fer example you can use `@import url("https://kewlsage.github.io/testpository/demo.css")`
+using that kind of link you will be able to import css successfully, for example you can use `@import url("https://kewlsage.github.io/testpository/demo.css")`
