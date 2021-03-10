@@ -1,7 +1,7 @@
 # testpository
 This shows you how to make your css file importable easily from github.
 
-As seen above, there is a file callled demo.css, should it be imported in to discord your home icon will instead of its normal white, become black on hover or if the home icon is active.
+As seen above, there is a file called demo.css, should it be imported in to discord your home icon will instead of its normal white, become black on hover or if the home icon is active.
 
 you may think that `@import url("https://github.com/KewlSage/testpository/demo.css")` would work but that is not true, after all if you visit that link it will say not found.
 
